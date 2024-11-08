@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Rohit's Lab</title>
     <script src="https://kit.fontawesome.com/0730c4a9bc.js" crossorigin="anonymous"></script>
-    @vite('resources/css/app.css')
+    @vite(['resources/css/app.css'])
 </head>
 <body >
     <div class="max-w-screen-md  h-screen mx-auto pt-8">
