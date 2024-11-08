@@ -217,8 +217,8 @@
             <div class="inline-block px-3 py-1  text-sm font-semibold text-white bg-black rounded-md max-w-fit md:mx-auto">Contact</div>
             <h1 class="md:text-4xl text-2xl font-bold tracking-tight ">Get in Touch</h1>
             <p class="text-zinc-500  md:text-lg text-sm tracking-tight ">
-                Want to connect? Just drop me a message with your question on 
-              <a href="https://twitter.com" class="text-blue-500 underline">Twitter,</a> 
+                Want to connect? Just Dm me  on 
+              <a href="https://instagram.com/rohitlodhiii" class="text-blue-500 underline">Instagram,</a> 
               and I'll get back to you as soon as I can.
             </p>
           </div>
